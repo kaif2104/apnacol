@@ -1,0 +1,46 @@
+*{
+    color: rgb(4, 70, 249);
+}
+h3{
+    color:purple;
+}
+h1{
+    color: #b92b27;
+}
+#login{
+    background-color: white;
+}
+#signup{
+    background-color:wheat;
+}
+.up{
+    background-color:lightcyan;
+}
+#myid p{
+    color: green;
+}
+p a{
+    color: purple;
+    background-color: yellow;
+}
+nav ul li a{
+    color: hotpink;
+}
+p+h3{
+    text-decoration: underline;
+}
+.up+button{
+    background-color:greenyellow;
+}
+div>input{
+    background-color: violet;
+}
+input[type="text"]{
+    color: red;
+}
+input[type="password"]{
+    color: aquamarine;
+}
+input[type]{
+    background-color: white;
+}
